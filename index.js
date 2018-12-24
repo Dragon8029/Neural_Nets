@@ -20,4 +20,5 @@ net.train(trainingData, {
 console.log(net.run([0, 0]));
 console.log(net.run([0, 1]));
 console.log(net.run([1, 0]));
-console.log(net.run([1, 1]));
+console.log(net.run([1, 1])); 
+
